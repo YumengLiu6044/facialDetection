@@ -1,0 +1,1 @@
+Testing the functionalities of git
